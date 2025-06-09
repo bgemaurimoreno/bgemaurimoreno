@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bgemaurimoreno
-- 👀 I’m interested in fork
+- 👀 I’m interested in foo
 - 🌱 I’m currently learning ltr
 - 💞️ I’m looking to collaborate on windows
 - 📫 How to reach me bge
