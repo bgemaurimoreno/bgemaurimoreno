@@ -2,7 +2,7 @@
 - 👀 I’m interested in foo
 - 🌱 I’m currently learning ltr
 - 💞️ I’m looking to collaborate on windows
-- 📫 How to reach me bge
+- 📫 How to reach me mauricioam1962@gmail.com
 - 😄 Pronouns: ... bge
 - ⚡ Fun fact: ... bge
 
